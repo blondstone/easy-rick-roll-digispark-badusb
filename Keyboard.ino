@@ -15,9 +15,7 @@ void loop() {
   DigiKeyboard.sendKeyStroke(0, MOD_GUI_LEFT);
 
   DigiKeyboard.delay(1000);
-
   
-
   DigiKeyboard.print("cmd");
   
   DigiKeyboard.delay(1000);
@@ -36,8 +34,6 @@ void loop() {
 
   DigiKeyboard.sendKeyStroke(KEY_SPACE);
 
-  DigiKeyboard.sendKeyStroke(KEY_L, MOD_GUI_LEFT);
- 
   DigiKeyboard.delay(30000);
 
 
