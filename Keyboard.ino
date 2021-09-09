@@ -2,7 +2,7 @@
 #include "DigiKeyboard.h"
 
 void setup() {
-  // don't need to set anything up to use DigiKeyboard
+
 }
 
 
